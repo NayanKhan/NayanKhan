@@ -3,6 +3,10 @@
 - 🔭 I’m currently working on Gigabit Tech Studio
 - 🌱 I’m currently learning Laravel and Java Script
 
+https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
+https://camo.githubusercontent.com/8a86175da70ee96af9ddea64f9daa12502c06af972aa021dfa2552d3b98ff453/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465
+https://camo.githubusercontent.com/81e9911b71e8d5f2c423b02de9daed29d55c3d4bfd434a359c4eec5df0198860/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d7768697465
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
