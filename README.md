@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Gigabit Tech Studio
+- 🌱 I’m currently learning Laravel and Java Script
+
 <!--
 **NayanKhan/NayanKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
