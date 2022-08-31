@@ -25,6 +25,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bc18c2bfaf3f7893651df7d3325bc4b81c681d30e8b47096c62dac1466a30cc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44656e6f206a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d64656e6f266c6f676f436f6c6f723d7768697465"><img alt="Deno" src="https://camo.githubusercontent.com/bc18c2bfaf3f7893651df7d3325bc4b81c681d30e8b47096c62dac1466a30cc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44656e6f206a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d64656e6f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Deno js-339933?style=flat-square&amp;logo=deno&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
+[![GitHub Streak](https://github-readme-NayanKhan.herokuapp.com?user=)](https://github.com/NayanKhan/NayanKhan)
 <!--
 **NayanKhan/NayanKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
