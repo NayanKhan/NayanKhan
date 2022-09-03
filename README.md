@@ -17,6 +17,8 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bc18c2bfaf3f7893651df7d3325bc4b81c681d30e8b47096c62dac1466a30cc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44656e6f206a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d64656e6f266c6f676f436f6c6f723d7768697465"><img alt="Deno" src="https://camo.githubusercontent.com/bc18c2bfaf3f7893651df7d3325bc4b81c681d30e8b47096c62dac1466a30cc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44656e6f206a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d64656e6f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Deno js-339933?style=flat-square&amp;logo=deno&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d89d6619cdc34dd0be1bf9a197216c1ab292aafde2cb6279308d94635021053/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6769676162697474656368"><img src="https://camo.githubusercontent.com/2d89d6619cdc34dd0be1bf9a197216c1ab292aafde2cb6279308d94635021053/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6769676162697474656368" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=NayanKhan" style="max-width: 100%;"></a></p>
+
 <!--
 **NayanKhan/NayanKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
