@@ -28,7 +28,7 @@
   </a>
 </div>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d89d6619cdc34dd0be1bf9a197216c1ab292aafde2cb6279308d94635021053/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6769676162697474656368"><img src="https://camo.githubusercontent.com/2d89d6619cdc34dd0be1bf9a197216c1ab292aafde2cb6279308d94635021053/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6769676162697474656368" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=NayanKhan" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d89d6619cdc34dd0be1bf9a197216c1ab292aafde2cb6279308d94635021053/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6769676162697474656368"><img src="https://camo.githubusercontent.com/2d89d6619cdc34dd0be1bf9a197216c1ab292aafde2cb6279308d94635021053/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6769676162697474656368" alt="GitHub Streak" data-canonical-src="[https://github-readme-streak-stats.herokuapp.com]https://github.com/?user=NayanKhan" style="max-width: 100%;"></a></p>
 
 <!--
 **NayanKhan/NayanKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
