@@ -9,10 +9,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: i4u.nayan@gmail.com/gitartwork@v1
+       - uses: NayanKhan/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: NayanKhan
             # Text on contribution graph 
             text: NAYAN
-       - uses: jasineri/simple-push-action@v1
+       - uses: NayanKhan/simple-push-action@v1
