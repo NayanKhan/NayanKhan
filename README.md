@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Gigabit Tech Studio
+- 🔭 I’m currently working on Gigabit
 - 🌱 I’m currently learning Laravel and Java Script
 
 <p align="center" dir="auto">
