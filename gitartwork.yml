@@ -12,7 +12,7 @@
        - uses: NayanKhan/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: Nayan
+            user_name: NayanKhan
             # Text on contribution graph 
-            text: JASINERI
+            text: NAYAN
        - uses: jasineri/simple-push-action@v1
